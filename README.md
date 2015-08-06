@@ -23,7 +23,7 @@ its okay
 	dir "D:\Documents\Images" /A-D /S /b /-p /o:gen >List_Files.txt  
 
 > NB : If you're using the script locally via file://, you may need to [follow these advices](http://kb.mozillazine.org/Links_to_local_pages_do_not_work).
-
+hi how are you?
 > CONTROLS  
 	Left arrow : Previous file  
 	Right arrow : Next file (random if not already existing)  

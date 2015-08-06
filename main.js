@@ -43,7 +43,7 @@ function handleFileSelect(evt) {
 	reader.readAsText(f);
 }
 
-// Start the slideshow
+
 function initSlideshow() {
 	var nfMax = arrFS.length;
 	console.log("Starting the Slideshow. Timer : "+timer+" nF : "+nF+" nFMax : "+nfMax);
