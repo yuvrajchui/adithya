@@ -1,0 +1,9 @@
+body { height: 100%; background-color:#202020; color:#fff; font: 0.8em "Trebuchet MS",Arial,helvetica,sans-serif }
+#ctrls, #displayF { width: 100%; position: fixed; }
+#ctrls { bottom: 2px; height: 24px; text-align: center; }
+#displayF { bottom: 30px; }
+#cImg, #vid { display: block; margin: 0 auto; }
+a { color: #777; text-decoration: underline; }
+a:hover { color: #fff; text-decoration: underline; }
+#displayF div { width: 50%; margin: 0 auto; text-align: justify; background-color: rgba(99, 99, 99, 0.3); padding: 5px; border-radius: 5px; }
+h1 { font-size: 14pt; font-variant: small-caps; }
